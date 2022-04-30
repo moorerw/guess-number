@@ -1,0 +1,53 @@
+/*912px*/
+@media (max-width: 57em) {
+  .right {
+    width: 35rem;
+  }
+}
+
+/*720px*/
+@media (max-width: 54em) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+
+/*576px*/
+@media (max-width: 36em) {
+  .guess {
+    width: 17rem;
+  }
+  .check {
+    padding: 1rem 1rem;
+    font-size: 1.5rem;
+  }
+}
+
+/*544px*/
+@media (max-width: 34em) {
+  h1 {
+    font-size: 3.5rem;
+  }
+  .message {
+    font-size: 1.7rem;
+    text-align: center;
+  }
+  .lable-score {
+    font-size: 1.7rem;
+    text-align: center;
+  }
+  .lable-highscore {
+    font-size: 1.7rem;
+    text-align: center;
+  }
+}
+
+/*352px*/
+@media (max-width: 23em) {
+  h1 {
+    font-size: 2.2rem;
+  }
+  .guess {
+    width: 15rem;
+  }
+}
